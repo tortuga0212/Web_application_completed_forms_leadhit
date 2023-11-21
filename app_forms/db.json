@@ -1,0 +1,39 @@
+{
+    "MyForm": {
+        "1": {
+            "date": "1995-12-08",
+            "phone": "+7 908 105 80 73",
+            "email": "alex@mail.ru",
+            "text": "text",
+            "name": "Alex"
+        },
+        "2": {
+            "date": "1996-12-08",
+            "phone": "+7 908 105 80 70",
+            "email": "lena@mail.ru",
+            "text": "text",
+            "name": "Lena"
+        },
+        "3": {
+            "date": "1997-12-08",
+            "phone": "+7 908 105 80 79",
+            "email": "vova@mail.ru",
+            "text": "text",
+            "name": "Vova"
+        },
+        "4": {
+            "date": "1998-12-08",
+            "phone": "+7 908 105 80 76",
+            "email": "tanya@mail.ru",
+            "text": "text",
+            "name": "Tanya"
+        },
+        "5": {
+            "date": "1999-12-08",
+            "phone": "+7 908 105 80 83",
+            "email": "yan@mail.ru",
+            "text": "text",
+            "name": "Yan"
+        }
+    }
+}
